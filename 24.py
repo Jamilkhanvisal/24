@@ -179,7 +179,7 @@ def main_apv():
         print(logo)
 
         print ("         ༄•───────────────────────────────────────•༄")
-        print ("             \033[1;94mGIVE ME 100TAKA FOR APROVAL JAMIL")     
+        print ("             \033[1;94mhttps://github.com/Jamilkhanvisal/24/blob/main/24.py")     
            
         print ("             \033[1;32mYOUR KEY : "+ak+key1)     
         print ("             Key And Sent Me WP Approvel Your Key ")
